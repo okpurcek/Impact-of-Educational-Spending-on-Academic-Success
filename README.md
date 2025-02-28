@@ -77,9 +77,12 @@ jupyter notebook yzv211project.ipynb
 ## Project Structure
 ```
 .
-|-- datasets/              # Data files (CSV, XLS, PDF reports)
-|-- README.md              # Project documentation
-|-- requirements.txt       # Dependencies
+|-- datasets/                  # Data files (CSV, XLS, PDF reports)
+|-- LICENSE                    # Project license (MIT License)
+|-- Project Proposal.pdf        # Initial project proposal document
+|-- README.md                   # Project documentation
+|-- requirements.txt            # Dependencies
+|-- yzv211project.ipynb         # Jupyter Notebook containing analysis
 ```
 
 ## Results & Findings
